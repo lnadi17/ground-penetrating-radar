@@ -1,5 +1,3 @@
-%
-% Ref Impedances: Z01: 50, Z02: 50
-% 
-%freq[Hz];Trc4_S21[U];
-1.000000000000000E+005,5.561888750350516E-006
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf1eefac6704c9b4d893e9a4c7d44ea452526417829d87fb2db1e848e7283d70
+size 112
