@@ -2,7 +2,7 @@
 
 **[იხილეთ პროექტის ანგარიშის pdf ვერსია](https://github.com/lnadi17/ground-penetrating-radar/blob/master/README.pdf)**
 
-## ლიტერატურა (ნაშრომები, სტატიები, ვიდეოები, ცხრილები, გრაფიკები):
+### ლიტერატურა (ნაშრომები, სტატიები, ვიდეოები, ცხრილები, გრაფიკები):
 
 [Mine Action - The Research Experience of the Royal Military Academy of Belgium](https://www.intechopen.com/books/mine-action-the-research-experience-of-the-royal-military-academy-of-belgium/ground-penetrating-radar-for-close-in-mine-detection)
 
@@ -14,7 +14,7 @@
 
 [Stanford CS109 Handout #40: Logistic Regression](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/pdfs/40%20LogisticRegression.pdf)
 
-[Speech and Language Processing. Daniel Jurafsky & James H. Martin](http://web.stanford.edu/~jurafsky/slp3/5.pdf)
+[Speech and Language Processing, Daniel Jurafsky & James H. Martin, 2019](http://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 [The Neural Net Tank Urban Legend](https://www.gwern.net/Tanks)
 
