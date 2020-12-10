@@ -1,5 +1,7 @@
 # ground-penetrating-radar
 
+**[იხილეთ პროექტის ანგარიშის pdf ვერსია](https://github.com/lnadi17/ground-penetrating-radar/blob/master/README.pdf)**
+
 ## ლიტერატურა (ნაშრომები, სტატიები, ვიდეოები, ცხრილები, გრაფიკები):
 
 [Mine Action - The Research Experience of the Royal Military Academy of Belgium](https://www.intechopen.com/books/mine-action-the-research-experience-of-the-royal-military-academy-of-belgium/ground-penetrating-radar-for-close-in-mine-detection)
