@@ -14,6 +14,8 @@ VNA-ით S-პარამეტრების შეგროვების
 ფართო გამოყენებისთვის და მიზნად ისახავს უფრო მეტი კვლევის წარმოებას ამ
 მიმართულებით.
 
+[![GE Flag](https://flagcdn.com/16x12/ge.png)](./README-ge.md) GE | [![US Flag](https://flagcdn.com/16x12/us.png)](./README.md) [US](./README.md)
+
 **[იხილეთ პროექტის ანგარიშის pdf ვერსია](https://github.com/lnadi17/ground-penetrating-radar/blob/master/README.pdf)**
 
 <img width="534" alt="Screenshot 2023-07-07 at 20 09 24" src="https://github.com/lnadi17/ground-penetrating-radar/assets/19193250/45ffadf4-0142-4d65-9780-6f297e9396a0">
